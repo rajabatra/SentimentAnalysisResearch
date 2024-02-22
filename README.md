@@ -8,4 +8,8 @@ There are 5 files:
 1 notebook for LSTM
 1 notebook for foundation models
 1 folder with our flask website
+
+Link To IEEE Paper [https://github.com/rajabatra/SentimentAnalysisResearch/blob/main/Sentiment%20Analysis%20Paper(raja%20and%20eli).pdf]
+
+
 Link to website: https://rajabatra.pythonanywhere.com
